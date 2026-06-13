@@ -1,6 +1,6 @@
 Getting Started
 <img width="1578" height="729" alt="image" src="https://github.com/user-attachments/assets/fb317ada-80d8-4883-9f6d-db4cd6128663" />
-![Uploading image.png…]()
+<img width="1552" height="802" alt="image" src="https://github.com/user-attachments/assets/e1916031-b216-47eb-8cd9-20954f8fcaf7" />
 
 Extract Zip and run exe
 
@@ -19,6 +19,7 @@ There are two types of stitching: Squares and no squares
 
 SQUARES
 Choosing Squares leaves the zoom in box in the picture, but prevents visual issues in the combined image
+![Uploading image.png…]()
 
 NO SQUARES
 Choosing no squares will try to remove the boxes and fill in the missing part of the picture that was in those zoomed-in boxes
