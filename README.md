@@ -1,4 +1,6 @@
 Getting Started
+<img width="1578" height="729" alt="image" src="https://github.com/user-attachments/assets/fb317ada-80d8-4883-9f6d-db4cd6128663" />
+![Uploading image.png…]()
 
 Extract Zip and run exe
 
