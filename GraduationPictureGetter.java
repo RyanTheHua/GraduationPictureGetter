@@ -18,7 +18,7 @@ public class GraduationPictureGetter {
         System.out.println("Getting graduation pictures...");
         // This is a placeholder for the actual implementation
   BufferedImage image;
- BufferedImage combinedImage = new BufferedImage(800, 800, BufferedImage.TYPE_INT_ARGB);
+ BufferedImage combinedImage = new BufferedImage(400, 600, BufferedImage.TYPE_INT_ARGB);
  int tempx =0;
  int tempy =0;
 int firstrun = 0;
