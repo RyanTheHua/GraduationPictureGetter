@@ -19,13 +19,13 @@ SQUARES
 Choosing Squares leaves the zoom in box in the picture, but prevents visual issues in the combined image
 
 NO SQUARES
-Choosing no squares will try to remove the boxes and fill in the missing part of the picture that was at those zoom in boxes
+Choosing no squares will try to remove the boxes and fill in the missing part of the picture that was in those zoomed-in boxes
 
 There are also lines where the zoom in box was removed, which form a box around each picture used to stitch to the combined one.
 
-Gap or no gap: Sometimes the image will look fine without needing to fill in the missing pixels from removing the zoom in box which is when you want to have no gap
+Gap or no gap: Sometimes the image will look fine without needing to fill in the missing pixels from removing the zoom-in box, which is when you want to have no gap
 
-Run Selection #: This is the layer wherer the gap will appear and the program will try to fill in
+Run Selection #: This is the layer where the gap will appear, and the program will try to fill in
 
-Gap Height: This is the amount of vertical pixels that the selected runselection layer will have a gap at, use this when 7 pixel fill in is not enough
+Gap Height: This is the amount of vertical pixels that the selected run selection layer will have a gap at. Use this when a 7 pixel fill-in is not enough
 
