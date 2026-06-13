@@ -1,8 +1,10 @@
 Getting Started
 
+Extract Zip and run exe
+
 Keep the jre folder in the same folder than the exe
 
-After running the exe, enter the HD zoomed-in graduation picture from a site like flash photography ( I do not know about any other sites working and only implemented flash photography)
+After running the exe, get the HD zoomed-in graduation picture from a site like flash photography ( I do not know about any other sites working and only implemented flash photography)
 
 Open the zoomed-in HD picture in its own tab and look at the URL. It should look like &O=27341768&R=10001&F=0276&A=71994&rand=0.8262668656003157 
 and is right after the value for the y coordinate
